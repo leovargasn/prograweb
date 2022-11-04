@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+
+}
+.Tmarcaprocedencia{
+width: 600px;
+background-color: rgb(255, 255, 255);
+padding: 35px;
+margin-top: 200px;
+margin-left: 500px;
+border-radius: 8%;
+text-align: left;
+font-family: Impact, Haettenschweiler, 'montserrat', sans-serif;
+border: 20 px dashed red ;
+}
+.titulo{
+  color: rgb(14, 14, 14);
+  text-align: left;
+  font-size: 40px;
+  font-family: Impact, Haettenschweiler, 'montserrat', sans-serif;
+  margin: 10px;
+  width: 100%;
+  padding-top: 50px;
+  border: 20 px dashed red ;
+}
+.boton{
+  margin: 5px;
+  text-align: center;
+  color: rgb(8, 8, 8);
+  font-size: 15px;
+  font-family: Impact, Haettenschweiler, 'montserrat', sans-serif;
+  width: 30%;
+}
+
+
+
+
+
+
+
+
